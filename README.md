@@ -14,5 +14,5 @@ A Machine learning project done for Inter IIT Tech Meet 2023
 Load the code in Google colab and upload images from the dataset.  
 Follow steps on the notebook to execute the code. 
 
-**Video Demonstration:** https://www.youtube.com/watch?v=624ykLb0Ffk
+**Video Demonstration Link:** https://www.youtube.com/watch?v=624ykLb0Ffk
 
